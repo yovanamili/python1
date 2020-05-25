@@ -1,0 +1,22 @@
+h1 {
+  color: green;
+  text-align:center;
+}
+
+p {
+  color:red;
+}
+table {
+  border:2px solid black;
+  border-collapse: collapse;
+  width: 33%
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align:center;
+}
+
+th{ background-color: lightgray
+}
